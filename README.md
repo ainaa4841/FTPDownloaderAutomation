@@ -14,6 +14,11 @@ Full documentation is available in the `docs/` folder.
 - [System Architecture](docs/5_System_Architecture.md)
 - [Troubleshooting](docs/6_Troubleshooting.md)
 
+Design 70%
+Development 60%
+Testing 50%
+Documentation 30%
+
 ---
 **Developer:** Aina Mahmod  
 **Version:** 1.0  
