@@ -9,6 +9,5 @@ When automation is enabled:
 - The scheduler runs a background job using the `schedule` Python module.
 - The job checks for new files daily and downloads only missing data.
 
-### Example
-If the date is 2025-10-07, the system downloads files from `/archived/2025/10/07102025/`.
+
 
